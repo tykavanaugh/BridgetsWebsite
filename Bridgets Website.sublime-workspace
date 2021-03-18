@@ -1,0 +1,326 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"css/style.css\t⟠"
+			],
+			[
+				"Doc",
+				"Documents\t⟠"
+			],
+			[
+				"ht",
+				"http-equiv=\"X-UA-Compatible\" content\t⟠"
+			],
+			[
+				"v",
+				"viewport\" content=\"width\t⟠"
+			],
+			[
+				"m",
+				"meta name\t⟠"
+			],
+			[
+				"auto",
+				"autoScrap()\tfunction ⟠"
+			],
+			[
+				"au",
+				"autoWalk()\tfunction ⟠"
+			],
+			[
+				"py",
+				"pydirectinput\t⟠"
+			],
+			[
+				"on",
+				"on_press"
+			],
+			[
+				"mouse",
+				"mouseCont\t⟠"
+			],
+			[
+				"a",
+				"active == True:\t1★ pro ⟠"
+			],
+			[
+				"walk",
+				"walkKey\tstr ⟠"
+			],
+			[
+				"key",
+				"keyboardCont\t⟠"
+			],
+			[
+				"ac",
+				"activationKey\tstr ⟠"
+			],
+			[
+				"ke",
+				"keyboard"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 326,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "css/style.css",
+			"file_size": 0,
+			"file_write_time": 132605769804880485,
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/user/Documents/macros.py",
+		"/home/user/Documents/macros2.py",
+		"/home/user/Desktop/Friend Jeep Tractor",
+		"/home/user/Downloads/strings",
+		"/home/user/Documents/wardriveCore.py",
+		"/home/user/Downloads/the_numbers.png",
+		"/home/user/Documents/SCP draft",
+		"/home/user/Documents/Python Malware Framework/pythonExploitationFramework-master/backdoor listener testing client",
+		"/tmp/kite_tutorial.py",
+		"/home/user/Desktop/test.txt",
+		"/home/user/Desktop/message2",
+		"/home/user/Desktop/message1",
+		"/home/user/Desktop/key2.pem",
+		"/home/user/Desktop/key1.pem",
+		"/home/user/Documents/Parrot Osint Machine",
+		"/home/user/Downloads/bqqGIs_f",
+		"/home/user/Documents/PiTop Scripts/scriptSelectAndExecute",
+		"/media/user/persistence/persistence.conf",
+		"/home/user/Documents/Security Related Python Scripts/OSINT search sites",
+		"/home/user/rtl8812au-master/Makefile",
+		"/home/user/Documents/Security Related Python Scripts/netscanner.py",
+		"/home/user/Documents/Django Website/djangowebsite/src/templates/home.html",
+		"/home/user/Documents/Django Website/djangowebsite/src/Djangosite/pages/views.py",
+		"/home/user/Documents/Django Website/djangowebsite/src/Djangosite/Djangosite/settings.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Bridgets Website.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 365.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
