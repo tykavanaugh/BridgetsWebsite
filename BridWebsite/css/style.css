@@ -1,0 +1,28 @@
+
+
+@import url(./fonts.css);
+
+.padding{
+background-color: purple;
+padding: 50px;
+background-clip: padding-box;
+height: 200px;
+width: 200px;
+}
+
+h1 {text-align: center;}
+/*start nav*/
+
+.header_area.main-menu.navbar.navbar-brand{
+	padding: 0 2rem 0 5rem;
+}
+
+.header_area.main-menu.navbar.navbar{
+	padding: 1rem 20rem;
+}
+
+.header_area.main-menu.nav-item.nav-link{
+	font-family: "sans";
+}
+
+/*end nav*/
